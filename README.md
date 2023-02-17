@@ -3,7 +3,7 @@ A continuación están realizadas las primeras practicas asignadas por el maestr
 
 Instituto Tecnológico de las Americas ITLA
 
-* Luis Manuel Orozco 2019-8854 *
+* Luis Manuel Orozco 2019-8854 
 
 Descripcion de la asignación:
 
